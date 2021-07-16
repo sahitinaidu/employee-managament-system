@@ -1,0 +1,134 @@
+
+        table{
+            font-family: Roboto, sans-serif !important;
+            color:rgba(0,0,0,0.6) !important;
+            font-size: 14px !important;
+        }
+        tbody{
+            font-weight: 500 !important;
+        }
+        .dataTables_info{
+                font-family: Roboto, sans-serif !important;
+                color:rgb(51,51,51) !important;
+                font-size: 14px !important;
+        }
+        .dataTables_paginate{
+                font-family: Roboto, sans-serif !important;
+                color:rgb(51,51,51) !important;
+                font-size: 14px !important;
+        }
+        a:hover{
+            text-decoration: none !important;
+        }
+        li{
+            font-family: Roboto, sans-serif !important;
+        }
+        .btn{
+            color:white !important;
+        }
+        .dataTables_length{
+            display: none;
+        }
+        .dataTables_filter{
+            display: none;
+        }
+        .dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+  top: 0px;
+  left: 100%;
+  margin-top: -1px;
+}
+.btn{
+    background-color: white !important;
+    color:black !important;
+}
+.btn:focus{
+    background-color: rgba(128,128,128,0.8);
+}
+     .badge1{
+    padding: 3px 5px 2px;
+    position:relative;
+    top: -8px;
+    right: 9px;
+    display: inline-block;
+    min-width: 10px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #ffffff;
+    line-height: 1;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-align: center;
+    border-radius: 10px;
+}
+.badge-danger1 {
+    background-color: #db5565;
+}
+.tagButton{
+	border-radius:12px;
+    padding:4px;
+    padding-left:8px;
+    padding-right:8px;
+    background-color:rgba(128,128,128,0.1);
+    border-width:1px;
+    cursor:pointer;
+    margin:5px;
+    font-size: 13px;
+}
+.tagButton:focus{
+    background-color: rgba(128,128,128,0.5);
+}
+.search-icon {
+    position: absolute;
+    top: 50%;
+    right: 25px;
+    margin-top: -10px;
+}
+
+#myInput {
+  width: 80%;
+  font-size: 16px;
+  padding: 2px 0px 2px 30px;
+  
+  margin-bottom: 12px;}
+  .input-icons i { 
+      margin-top:5px;
+            vertical-align:middle;
+            position: absolute; 
+        } 
+        .input-icons { 
+            width: 60%; 
+        } 
+        .icon { 
+            padding: 10px; 
+            min-width: 40px; 
+        } 
+        .input-field { 
+            width: 60%; 
+            padding: 10px; 
+        } 
+        .calClass{
+            position: relative;
+            top:0px;
+            left:100%;
+        }
+        .datepicker-dropdown:after{
+            content: none !important;
+        }
+        
+        .datepicker-dropdown:after{
+            content: none !important;
+        }
+       
+        .dropdown-menu::-webkit-scrollbar {
+  display: none;
+}
+
+
+.dropdown-menu {
+  -ms-overflow-style: none;  
+  scrollbar-width: none;  
+}
